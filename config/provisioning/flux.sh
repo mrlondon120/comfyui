@@ -19,7 +19,7 @@ PIP_PACKAGES=(
 )
 
 NODES=(
-    "https://github.com/ltdrdata/ComfyUI-Manager"
+        "https://github.com/ltdrdata/ComfyUI-Manager"
 	"https://github.com/cubiq/ComfyUI_essentials"
 	"https://github.com/Gourieff/comfyui-reactor-node"
 	"https://github.com/ltdrdata/ComfyUI-Impact-Pack"
@@ -37,20 +37,13 @@ NODES=(
 	"https://github.com/hylarucoder/comfyui-copilot"
 	"https://github.com/kijai/ComfyUI-KJNodes"
 	"https://github.com/KoreTeknology/ComfyUI-Universal-Styler"
-    "https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait"
-	"https://github.com/yolain/ComfyUI-Easy-Use"
-    "https://github.com/ssitu/ComfyUI_UltimateSDUpscale"
+        "https://github.com/ssitu/ComfyUI_UltimateSDUpscale"
 	"https://github.com/chrisgoringe/cg-use-everywhere"
 	"https://github.com/huanngzh/ComfyUI-MVAdapter"
-    "https://github.com/Limitex/ComfyUI-Diffusers"
-	"https://github.com/lldacing/ComfyUI_BiRefNet_ll"
-    "https://github.com/ltdrdata/ComfyUI-Impact-Subpack"
-	"https://github.com/spacepxl/ComfyUI-Image-Filters"
-    "https://github.com/liusida/ComfyUI-AutoCropFaces"
+        "https://github.com/Limitex/ComfyUI-Diffusers"
 	"https://github.com/cubiq/ComfyUI_IPAdapter_plus"
 	"https://github.com/cubiq/ComfyUI_FaceAnalysis"
-	"https://github.com/un-seen/comfyui-tensorops"
-     "https://github.com/civitai/civitai_comfy_nodes"
+	"https://github.com/civitai/civitai_comfy_nodes"
 	"https://github.com/balazik/ComfyUI-PuLID-Flux")
 
 CHECKPOINT_MODELS=(
