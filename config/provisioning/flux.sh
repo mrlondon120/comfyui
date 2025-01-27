@@ -44,7 +44,11 @@ NODES=(
 	"https://github.com/cubiq/ComfyUI_IPAdapter_plus"
 	"https://github.com/cubiq/ComfyUI_FaceAnalysis"
 	"https://github.com/civitai/civitai_comfy_nodes"
-	"https://github.com/balazik/ComfyUI-PuLID-Flux")
+	"https://github.com/balazik/ComfyUI-PuLID-Flux"
+        "https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait"
+	"https://github.com/ltdrdata/ComfyUI-Impact-Subpack"
+        "https://github.com/un-seen/comfyui-tensorops"
+	"https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes"
 
 CHECKPOINT_MODELS=(
 )
